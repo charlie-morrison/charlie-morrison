@@ -41,6 +41,8 @@ I write about AI tools, prompt engineering, and productivity at [charliemorrison
 ## Free Resources
 
 - [AI Developer Prompts](https://github.com/charlie-morrison/ai-developer-prompts) — 20 curated prompts for code generation, debugging, architecture, DevOps, and AI integration
+- [Freelancer AI Prompts](https://github.com/charlie-morrison/freelancer-ai-prompts) — 15 prompts for client acquisition, pricing, project management, and communication
+- [Content Creator Prompts](https://github.com/charlie-morrison/content-creator-prompts) — 20 prompts for blog writing, social media, email marketing, video, and SEO
 
 ## Telegram Bots
 
