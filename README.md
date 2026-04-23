@@ -38,6 +38,10 @@ I write about AI tools, prompt engineering, and productivity at [charliemorrison
 - [Best AI Prompts for Developers in 2026](https://charliemorrison.dev/blog/best-ai-prompts-for-developers-2026)
 - [Best AI Tools for Students in 2026](https://charliemorrison.dev/blog/best-ai-tools-students-2026)
 
+## Free Resources
+
+- [AI Developer Prompts](https://github.com/charlie-morrison/ai-developer-prompts) — 20 curated prompts for code generation, debugging, architecture, DevOps, and AI integration
+
 ## Telegram Bots
 
 - [@charlie_dl_bot](https://t.me/charlie_dl_bot) — Download videos, music, and files
