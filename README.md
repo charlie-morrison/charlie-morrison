@@ -45,6 +45,7 @@ I write about AI tools, prompt engineering, and productivity at [charliemorrison
 - [Freelancer AI Prompts](https://github.com/charlie-morrison/freelancer-ai-prompts) — 15 prompts for client acquisition, pricing, project management, and communication
 - [Content Creator Prompts](https://github.com/charlie-morrison/content-creator-prompts) — 20 prompts for blog writing, social media, email marketing, video, and SEO
 - [Job Search AI Prompts](https://github.com/charlie-morrison/job-search-ai-prompts) — 15 prompts for resumes, cover letters, interview prep, and salary negotiation
+- [Social Media AI Prompts](https://github.com/charlie-morrison/social-media-ai-prompts) — 20 prompts for LinkedIn, X, Instagram, TikTok, and YouTube
 
 ## Telegram Bots
 
