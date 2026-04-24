@@ -38,11 +38,13 @@ I write about AI tools, prompt engineering, and productivity at [charliemorrison
 - [Best AI Prompts for Developers in 2026](https://charliemorrison.dev/blog/best-ai-prompts-for-developers-2026)
 - [Best AI Tools for Students in 2026](https://charliemorrison.dev/blog/best-ai-tools-students-2026)
 
-## Free Resources
+## Free Tools & Resources
 
+- [Resume ATS Score Checker](https://charliemorrison.dev/resume-checker) — Free tool to check if your resume will pass ATS filters
 - [AI Developer Prompts](https://github.com/charlie-morrison/ai-developer-prompts) — 20 curated prompts for code generation, debugging, architecture, DevOps, and AI integration
 - [Freelancer AI Prompts](https://github.com/charlie-morrison/freelancer-ai-prompts) — 15 prompts for client acquisition, pricing, project management, and communication
 - [Content Creator Prompts](https://github.com/charlie-morrison/content-creator-prompts) — 20 prompts for blog writing, social media, email marketing, video, and SEO
+- [Job Search AI Prompts](https://github.com/charlie-morrison/job-search-ai-prompts) — 15 prompts for resumes, cover letters, interview prep, and salary negotiation
 
 ## Telegram Bots
 
