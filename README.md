@@ -46,6 +46,7 @@ I write about AI tools, prompt engineering, and productivity at [charliemorrison
 - [Salary Negotiation Script Generator](https://charliemorrison.dev/salary-negotiation) — Ready-to-use scripts for job offers, raises, promotions, and counter offers
 - [Interview Follow-Up Email Generator](https://charliemorrison.dev/follow-up-email) — Professional thank-you and follow-up emails for every interview stage
 - [Job Interview Question Generator](https://charliemorrison.dev/interview-prep) — Personalized interview questions for any role with STAR method answer tips
+- [Job Description Keyword Extractor](https://charliemorrison.dev/job-keywords) — Extract and categorize keywords from any job posting for resume optimization
 - [AI Developer Prompts](https://github.com/charlie-morrison/ai-developer-prompts) — 20 curated prompts for code generation, debugging, architecture, DevOps, and AI integration
 - [Freelancer AI Prompts](https://github.com/charlie-morrison/freelancer-ai-prompts) — 15 prompts for client acquisition, pricing, project management, and communication
 - [Content Creator Prompts](https://github.com/charlie-morrison/content-creator-prompts) — 20 prompts for blog writing, social media, email marketing, video, and SEO
