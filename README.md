@@ -23,20 +23,28 @@ I build AI-powered tools and digital products that save people time.
 | Budget & Finance Planner | $12 | [Get it](https://charliemorrison.lemonsqueezy.com/checkout/buy/39bfaee6-4228-4721-95e9-5184390de01b) |
 | Student Academic Planner | $10 | [Get it](https://charliemorrison.lemonsqueezy.com/checkout/buy/1ab09bf9-235a-4488-8b80-ac57f196e6bd) |
 
+## Recent Articles (Dev.to)
+
+Career advice and developer tools — [dev.to/charliemorrison](https://dev.to/charliemorrison):
+
+- [The Tech Skills That Actually Get You Hired in 2026](https://dev.to/charliemorrison/the-tech-skills-that-actually-get-you-hired-in-2026-not-the-ones-you-think-453d)
+- [Your Job Application Is Being Scored by AI — Here's How to Win](https://dev.to/charliemorrison/your-job-application-is-being-scored-by-ai-heres-how-to-win-13e8)
+- [How I Built a Developer Portfolio That Actually Gets Responses](https://dev.to/charliemorrison/how-i-built-a-developer-portfolio-that-actually-gets-responses-template-inside-3l0o)
+- [I Built a Job Description Keyword Extractor](https://dev.to/charliemorrison/i-built-a-job-description-keyword-extractor-and-heres-what-i-learned-about-ats-2oi8)
+- [How to Beat the ATS: A 2026 Resume Guide](https://dev.to/charliemorrison/how-to-beat-the-ats-a-2026-resume-guide-that-actually-works-1oa0)
+- [Stop Applying to Jobs Wrong — 5 Fixes That Actually Work](https://dev.to/charliemorrison/stop-applying-to-jobs-wrong-5-fixes-that-actually-work-39ck)
+- [I Applied to 200 Jobs and Got 3 Interviews — Here's What Finally Worked](https://dev.to/charliemorrison/i-applied-to-200-jobs-and-got-3-interviews-heres-what-finally-worked-4d0g)
+
 ## Blog
 
-I write about AI tools, prompt engineering, and productivity at [charliemorrison.dev/blog](https://charliemorrison.dev/blog):
+More at [charliemorrison.dev/blog](https://charliemorrison.dev/blog):
 
 - [How to Make Money with AI in 2026: 12 Proven Methods](https://charliemorrison.dev/blog/how-to-make-money-with-ai-2026)
 - [Best AI Tools for Teachers in 2026](https://charliemorrison.dev/blog/best-ai-tools-for-teachers-2026)
 - [Best Free AI Image Generators in 2026](https://charliemorrison.dev/blog/best-free-ai-image-generators-2026)
 - [Best AI Tools for Small Business in 2026](https://charliemorrison.dev/blog/best-ai-tools-small-business-2026)
 - [AI Content Creation Tools Guide](https://charliemorrison.dev/blog/ai-content-creation-tools-2026)
-- [AI Side Hustle Ideas for 2026](https://charliemorrison.dev/blog/ai-side-hustle-ideas-2026)
 - [AI Tools for Freelancers](https://charliemorrison.dev/blog/ai-tools-for-freelancers-2026)
-- [AI Prompt Engineering: A Practical Guide](https://charliemorrison.dev/blog/ai-prompt-engineering-guide-beginners)
-- [Best AI Prompts for Developers in 2026](https://charliemorrison.dev/blog/best-ai-prompts-for-developers-2026)
-- [Best AI Tools for Students in 2026](https://charliemorrison.dev/blog/best-ai-tools-students-2026)
 
 ## Free Tools & Resources
 
