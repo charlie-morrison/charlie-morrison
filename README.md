@@ -25,15 +25,23 @@ I build AI-powered tools and digital products that save people time.
 
 ## Recent Articles (Dev.to)
 
-Career advice and developer tools — [dev.to/charliemorrison](https://dev.to/charliemorrison):
+Career advice and developer tools — [dev.to/charliemorrison](https://dev.to/charliemorrison) (48 articles, 600+ views):
 
+**New (May 2026):**
+- [What Remote Developers Actually Make in 2026 — Real Data from 50 Offers](https://dev.to/charliemorrison/what-remote-developers-actually-make-in-2026-real-data-from-50-offers-5h61)
+- [How Long It Actually Takes to Pick Up the Hot 2026 Tech Skills](https://dev.to/charliemorrison/how-long-it-actually-takes-to-pick-up-the-hot-2026-tech-skills-tracked-from-5-real-devs-4n76)
+- [The 8 Skills Tests Companies Are Actually Using in 2026](https://dev.to/charliemorrison/the-8-skills-tests-companies-are-actually-using-in-2026-insider-notes-from-8-recent-hires-277i)
+- [I Reverse-Engineered 5 ATS Systems — Here Is What Your Resume Looks Like to Them](https://dev.to/charliemorrison/i-reverse-engineered-5-ats-systems-here-is-what-your-resume-actually-looks-like-to-them-36ce)
+- [The Week Before the Onsite — A Day-by-Day Plan from 4 Recent Loops](https://dev.to/charliemorrison/the-week-before-the-onsite-a-day-by-day-plan-from-4-recent-loops-3-offers-1-rejection-569g)
+- [What to Say When They Counter Your Counter-Offer (Real Scripts)](https://dev.to/charliemorrison/what-to-say-when-they-counter-your-counter-offer-5-real-scenarios-with-scripts-40o7)
+
+**Top performers:**
+- [Remote Developer Jobs in 2026: Where to Actually Find Them](https://dev.to/charliemorrison/remote-developer-jobs-in-2026-where-to-actually-find-them-4345)
+- [Skills-Based Hiring Is Real Now — Here's How to Use It](https://dev.to/charliemorrison/skills-based-hiring-is-real-now-heres-how-to-use-it-to-your-advantage-4kh4)
+- [Your LinkedIn Profile Is Invisible to Recruiters](https://dev.to/charliemorrison/your-linkedin-profile-is-invisible-to-recruiters-here-is-how-to-fix-it-obm)
 - [The Tech Skills That Actually Get You Hired in 2026](https://dev.to/charliemorrison/the-tech-skills-that-actually-get-you-hired-in-2026-not-the-ones-you-think-453d)
 - [Your Job Application Is Being Scored by AI — Here's How to Win](https://dev.to/charliemorrison/your-job-application-is-being-scored-by-ai-heres-how-to-win-13e8)
-- [How I Built a Developer Portfolio That Actually Gets Responses](https://dev.to/charliemorrison/how-i-built-a-developer-portfolio-that-actually-gets-responses-template-inside-3l0o)
-- [I Built a Job Description Keyword Extractor](https://dev.to/charliemorrison/i-built-a-job-description-keyword-extractor-and-heres-what-i-learned-about-ats-2oi8)
-- [How to Beat the ATS: A 2026 Resume Guide](https://dev.to/charliemorrison/how-to-beat-the-ats-a-2026-resume-guide-that-actually-works-1oa0)
-- [Stop Applying to Jobs Wrong — 5 Fixes That Actually Work](https://dev.to/charliemorrison/stop-applying-to-jobs-wrong-5-fixes-that-actually-work-39ck)
-- [I Applied to 200 Jobs and Got 3 Interviews — Here's What Finally Worked](https://dev.to/charliemorrison/i-applied-to-200-jobs-and-got-3-interviews-heres-what-finally-worked-4d0g)
+- [How to Negotiate a Developer Salary (With the Actual Email I Sent)](https://dev.to/charliemorrison/how-to-negotiate-a-developer-salary-with-the-actual-email-i-sent-13b5)
 
 ## Blog
 
