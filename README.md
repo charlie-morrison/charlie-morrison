@@ -25,23 +25,24 @@ I build AI-powered tools and digital products that save people time.
 
 ## Recent Articles (Dev.to)
 
-Career advice and developer tools — [dev.to/charliemorrison](https://dev.to/charliemorrison) (48 articles, 600+ views):
+Career advice and developer tools — [dev.to/charliemorrison](https://dev.to/charliemorrison) (61 articles, 950+ views):
 
 **New (May 2026):**
-- [What Remote Developers Actually Make in 2026 — Real Data from 50 Offers](https://dev.to/charliemorrison/what-remote-developers-actually-make-in-2026-real-data-from-50-offers-5h61)
-- [How Long It Actually Takes to Pick Up the Hot 2026 Tech Skills](https://dev.to/charliemorrison/how-long-it-actually-takes-to-pick-up-the-hot-2026-tech-skills-tracked-from-5-real-devs-4n76)
-- [The 8 Skills Tests Companies Are Actually Using in 2026](https://dev.to/charliemorrison/the-8-skills-tests-companies-are-actually-using-in-2026-insider-notes-from-8-recent-hires-277i)
-- [I Reverse-Engineered 5 ATS Systems — Here Is What Your Resume Looks Like to Them](https://dev.to/charliemorrison/i-reverse-engineered-5-ats-systems-here-is-what-your-resume-actually-looks-like-to-them-36ce)
-- [The Week Before the Onsite — A Day-by-Day Plan from 4 Recent Loops](https://dev.to/charliemorrison/the-week-before-the-onsite-a-day-by-day-plan-from-4-recent-loops-3-offers-1-rejection-569g)
-- [What to Say When They Counter Your Counter-Offer (Real Scripts)](https://dev.to/charliemorrison/what-to-say-when-they-counter-your-counter-offer-5-real-scenarios-with-scripts-40o7)
+- [The 10 Remote Companies Quietly Paying Top-of-Market for Devs in 2026](https://dev.to/charliemorrison/the-10-remote-companies-quietly-paying-top-of-market-for-devs-in-2026-tracked-across-60-offers-2n6b)
+- [12 Phrases Your ATS Is Quietly Penalizing — Found by Running 200 Resumes Through 5 Systems](https://dev.to/charliemorrison/12-phrases-your-ats-is-quietly-penalizing-found-by-running-200-resumes-through-5-systems-17jb)
+- [I Watched 3 Recruiters Search LinkedIn for an Hour Each — Here Is What Made Them Click](https://dev.to/charliemorrison/i-watched-3-recruiters-search-linkedin-for-an-hour-each-here-is-what-actually-made-them-click-3j7e)
+- [I Took 12 Skills-Based Hiring Assessments — 3 Flavors They All Fall Into](https://dev.to/charliemorrison/i-took-12-skills-based-hiring-assessments-here-are-the-3-flavors-they-all-fall-into-4ejg)
+- [15 Words That Mean Not Actually Remote on a Job Posting (Beyond Hybrid)](https://dev.to/charliemorrison/15-words-that-mean-not-actually-remote-on-a-job-posting-beyond-hybrid-3kkc)
+- [I Read 142 Rejection Emails From 18 Tech Friends — 5 Patterns and What to Do](https://dev.to/charliemorrison/i-read-142-rejection-emails-from-18-tech-friends-here-are-the-5-patterns-and-what-to-do-about-each-1d77)
+- [AI Now Writes 38% of Rejection Emails — 3 Patterns and What to Do With Each](https://dev.to/charliemorrison/ai-now-writes-38-of-rejection-emails-here-are-the-3-patterns-and-what-to-do-with-each-4ih8)
 
 **Top performers:**
-- [Remote Developer Jobs in 2026: Where to Actually Find Them](https://dev.to/charliemorrison/remote-developer-jobs-in-2026-where-to-actually-find-them-4345)
-- [Skills-Based Hiring Is Real Now — Here's How to Use It](https://dev.to/charliemorrison/skills-based-hiring-is-real-now-heres-how-to-use-it-to-your-advantage-4kh4)
-- [Your LinkedIn Profile Is Invisible to Recruiters](https://dev.to/charliemorrison/your-linkedin-profile-is-invisible-to-recruiters-here-is-how-to-fix-it-obm)
-- [The Tech Skills That Actually Get You Hired in 2026](https://dev.to/charliemorrison/the-tech-skills-that-actually-get-you-hired-in-2026-not-the-ones-you-think-453d)
-- [Your Job Application Is Being Scored by AI — Here's How to Win](https://dev.to/charliemorrison/your-job-application-is-being-scored-by-ai-heres-how-to-win-13e8)
-- [How to Negotiate a Developer Salary (With the Actual Email I Sent)](https://dev.to/charliemorrison/how-to-negotiate-a-developer-salary-with-the-actual-email-i-sent-13b5)
+- [Remote Developer Jobs in 2026: Where to Actually Find Them](https://dev.to/charliemorrison/remote-developer-jobs-in-2026-where-to-actually-find-them-1pa6) (185+ views)
+- [Your LinkedIn Profile Is Invisible to Recruiters](https://dev.to/charliemorrison/your-linkedin-profile-is-invisible-to-recruiters-here-is-how-to-fix-it-2gca) (58 views)
+- [Skills-Based Hiring Is Real Now — Here's How to Use It](https://dev.to/charliemorrison/skills-based-hiring-is-real-now-heres-how-to-use-it-to-your-advantage-h70) (50 views)
+- [I Reverse-Engineered 5 ATS Systems](https://dev.to/charliemorrison/i-reverse-engineered-5-ats-systems-here-is-what-your-resume-actually-looks-like-to-them-36ce) (46 views)
+- [The Tech Skills That Actually Get You Hired in 2026](https://dev.to/charliemorrison/the-tech-skills-that-actually-get-you-hired-in-2026-not-the-ones-you-think-453d) (42 views)
+- [Your Job Application Is Being Scored by AI — Here's How to Win](https://dev.to/charliemorrison/your-job-application-is-being-scored-by-ai-heres-how-to-win-3jh3) (41 views)
 
 ## Blog
 
