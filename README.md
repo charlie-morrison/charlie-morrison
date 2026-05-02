@@ -25,24 +25,29 @@ I build AI-powered tools and digital products that save people time.
 
 ## Recent Articles (Dev.to)
 
-Career advice and developer tools — [dev.to/charliemorrison](https://dev.to/charliemorrison) (61 articles, 950+ views):
+Career advice and developer tools — [dev.to/charliemorrison](https://dev.to/charliemorrison) (78 articles, 1150+ views):
 
-**New (May 2026):**
-- [The 10 Remote Companies Quietly Paying Top-of-Market for Devs in 2026](https://dev.to/charliemorrison/the-10-remote-companies-quietly-paying-top-of-market-for-devs-in-2026-tracked-across-60-offers-2n6b)
-- [12 Phrases Your ATS Is Quietly Penalizing — Found by Running 200 Resumes Through 5 Systems](https://dev.to/charliemorrison/12-phrases-your-ats-is-quietly-penalizing-found-by-running-200-resumes-through-5-systems-17jb)
-- [I Watched 3 Recruiters Search LinkedIn for an Hour Each — Here Is What Made Them Click](https://dev.to/charliemorrison/i-watched-3-recruiters-search-linkedin-for-an-hour-each-here-is-what-actually-made-them-click-3j7e)
-- [I Took 12 Skills-Based Hiring Assessments — 3 Flavors They All Fall Into](https://dev.to/charliemorrison/i-took-12-skills-based-hiring-assessments-here-are-the-3-flavors-they-all-fall-into-4ejg)
-- [15 Words That Mean Not Actually Remote on a Job Posting (Beyond Hybrid)](https://dev.to/charliemorrison/15-words-that-mean-not-actually-remote-on-a-job-posting-beyond-hybrid-3kkc)
-- [I Read 142 Rejection Emails From 18 Tech Friends — 5 Patterns and What to Do](https://dev.to/charliemorrison/i-read-142-rejection-emails-from-18-tech-friends-here-are-the-5-patterns-and-what-to-do-about-each-1d77)
-- [AI Now Writes 38% of Rejection Emails — 3 Patterns and What to Do With Each](https://dev.to/charliemorrison/ai-now-writes-38-of-rejection-emails-here-are-the-3-patterns-and-what-to-do-with-each-4ih8)
+**Latest (May 2026):**
+- [I Quit Posting on LinkedIn for 30 Days and Got More Recruiter Outreach](https://dev.to/charliemorrison/i-quit-posting-on-linkedin-for-30-days-and-got-more-recruiter-outreach-here-is-what-replaced-it-2ddp)
+- [What 5 Onsite Loops at 5 Different Companies Actually Looked Like in 2026 — Hour by Hour](https://dev.to/charliemorrison/what-5-onsite-loops-at-5-different-companies-actually-looked-like-in-2026-hour-by-hour-2959)
+- [If the Cover Letter Is Mostly Dead, What Replaced It? 6 Substitutes I Tested](https://dev.to/charliemorrison/if-the-cover-letter-is-mostly-dead-what-replaced-it-6-substitutes-i-tested-only-2-actually-got-51ch)
+- [I Tested 4 'Hot' Tech Skills for 6 Months Each — Only One Was Worth Learning](https://dev.to/charliemorrison/i-tested-4-hot-tech-skills-for-6-months-each-only-one-was-worth-learning-in-2026-33em)
+- [I Tracked 12 Counter-Offer Negotiations in 2026](https://dev.to/charliemorrison/i-tracked-12-counter-offer-negotiations-in-2026-here-are-the-4-that-worked-and-the-8-that-28n2)
+- [What 67 Dev.to Articles Taught Me About Career Content — 5 Patterns That Worked, 4 That Didn't](https://dev.to/charliemorrison/what-67-devto-articles-taught-me-about-career-content-5-patterns-that-worked-4-that-didnt-eho)
+- [Day-of-Week, Time-of-Day, and Tier of Company: 200 Applications, 30 Days, the Real Callback Data](https://dev.to/charliemorrison/day-of-week-time-of-day-and-tier-of-company-200-applications-30-days-the-real-callback-data-15k5)
+- [I Sent the Same Resume to 5 AI Recruiter Bots — Only 2 Replied](https://dev.to/charliemorrison/i-sent-the-same-resume-to-5-ai-recruiter-bots-only-2-replied-here-is-what-killed-the-other-3-og6)
+- [I Tracked 80 Remote Dev Offers in Q1 2026 — Real Salary Distribution by Region](https://dev.to/charliemorrison/i-tracked-80-remote-dev-offers-in-q1-2026-here-is-the-real-salary-distribution-by-region-and-the-h85)
+- [I A/B Tested 7 LinkedIn Headlines Over 30 Days — Only 2 Got Recruiter Outreach](https://dev.to/charliemorrison/i-ab-tested-7-linkedin-headlines-over-30-days-only-2-got-recruiter-outreach-here-is-the-data-2oe0)
+- [I Asked 12 Hiring Managers What 'Truly Remote' Means in 2026](https://dev.to/charliemorrison/i-asked-12-hiring-managers-what-truly-remote-means-in-2026-their-answers-dont-match-their-job-2p02)
 
 **Top performers:**
-- [Remote Developer Jobs in 2026: Where to Actually Find Them](https://dev.to/charliemorrison/remote-developer-jobs-in-2026-where-to-actually-find-them-1pa6) (185+ views)
-- [Your LinkedIn Profile Is Invisible to Recruiters](https://dev.to/charliemorrison/your-linkedin-profile-is-invisible-to-recruiters-here-is-how-to-fix-it-2gca) (58 views)
+- [Remote Developer Jobs in 2026: Where to Actually Find Them](https://dev.to/charliemorrison/remote-developer-jobs-in-2026-where-to-actually-find-them-4345) (214 views)
+- [Your LinkedIn Profile Is Invisible to Recruiters](https://dev.to/charliemorrison/your-linkedin-profile-is-invisible-to-recruiters-here-is-how-to-fix-it-obm) (72 views)
 - [Skills-Based Hiring Is Real Now — Here's How to Use It](https://dev.to/charliemorrison/skills-based-hiring-is-real-now-heres-how-to-use-it-to-your-advantage-h70) (50 views)
-- [I Reverse-Engineered 5 ATS Systems](https://dev.to/charliemorrison/i-reverse-engineered-5-ats-systems-here-is-what-your-resume-actually-looks-like-to-them-36ce) (46 views)
+- [I Reverse-Engineered 5 ATS Systems](https://dev.to/charliemorrison/i-reverse-engineered-5-ats-systems-here-is-what-your-resume-actually-looks-like-to-them-36ce) (47 views)
+- [I Scraped 50 LinkedIn Profiles That Got Recruited — Here Are the Patterns](https://dev.to/charliemorrison/i-scraped-50-linkedin-profiles-that-got-recruited-here-are-the-patterns-3cke) (44 views)
 - [The Tech Skills That Actually Get You Hired in 2026](https://dev.to/charliemorrison/the-tech-skills-that-actually-get-you-hired-in-2026-not-the-ones-you-think-453d) (42 views)
-- [Your Job Application Is Being Scored by AI — Here's How to Win](https://dev.to/charliemorrison/your-job-application-is-being-scored-by-ai-heres-how-to-win-3jh3) (41 views)
+- [Your Job Application Is Being Scored by AI — Here's How to Win](https://dev.to/charliemorrison/your-job-application-is-being-scored-by-ai-heres-how-to-win-13e8) (41 views)
 
 ## Blog
 
